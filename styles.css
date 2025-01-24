@@ -9,5 +9,5 @@
     flex: 1 1 calc(25% - 20px);
     max-width: 100%;
     height: auto;
-    border: 2px solid #ddd;
+    border: 2px solid lightpink;
 }
